@@ -1,0 +1,15 @@
+{
+  "name": "discord-self",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "obaqz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.7.1"
+  }
+}

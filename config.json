@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "devices": {
+        "Discord VR": "Meta Quest 3",
+        "Discord Embedded": "PS5",
+        "Discord Android": "sdk_gphone64_x86_64, sdk_gphone64_x86_64",
+        "Discord Client": "Desktop"
+    }
+}
